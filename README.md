@@ -4,7 +4,7 @@ A simple SBC that uses Compact Flash for program storage and runs CP/M based on 
 <p align="center"><img src="/images/Z80 SBC CPU.png"/>
 <p align="center">Z80 SBC CPU</p><br>
 
-<p align="center"><img src="/images/Z80 SBC GAL20V10.png"/>
+<p align="center"><img src="/images/Z80 SBC GAL22V10.png"/>
 <p align="center">Z80 SBC GAL20V10</p><br>
 
 <p align="center"><img src="/images/Z80 SBC CF.png"/>
