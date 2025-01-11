@@ -1,5 +1,5 @@
 # Z80 Single Board Computer with CP/M
-A simple SBC that uses Compact Flash for program storage and runs CP/M based on [Grant Searle's Z80 Computer](http://searle.x10host.com/cpm/index.html). The primary differences are the use of a GAL22V10 as 'glue' logic to reduce the chip count and the addition of an 8255 PPI for parallel I/O. I've also made a couple of tweaks to 'monitor.asm'. Assemble the source files with the [Macro Assembler AS](http://john.ccac.rwth-aachen.de:8000/as/)
+A simple SBC that uses Compact Flash for program storage and runs CP/M based on [Grant Searle's Z80 Computer](http://searle.x10host.com/cpm/index.html). The primary differences between Grant's design and this computer are the use of a GAL22V10 as 'glue' logic to reduce the chip count and the addition of an 8255 PPI for parallel I/O. I've also made a couple of tweaks to 'monitor.asm'. Assemble the source files with the [Macro Assembler AS](http://john.ccac.rwth-aachen.de:8000/as/)
 
 <p align="center"><img src="/images/Z80 SBC CPU.png"/>
 <p align="center">Z80 SBC CPU</p><br>
