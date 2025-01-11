@@ -1,2 +1,2 @@
-# Z80 Single Board Computer with CP-M
+# Z80 Single Board Computer with CP/M
 A simple SBC that uses Compact Flash for program storage and runs CP/M based on [Grant Searle's Z80 Computer](http://searle.x10host.com/cpm/index.html)
