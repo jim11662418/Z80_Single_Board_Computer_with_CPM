@@ -9,7 +9,11 @@
 ;
 ; http://searle.hostei.com/grant/index.html
 ;
-; modifications by Jim Loos 09/18/2024
+; modifications by Jim Loos 09/18/2024...
+; 1. if, on startup, the jumper connects the SIO SYNCA input to +5V, bypass 
+; the "Press space to start" message, use SIO channel A for the console and go
+; directly to loading CP/M.
+; 2. minor cosmetic changes
 ;
 ; edited for Macro Assembler AS V1.42 http://john.ccac.rwth-aachen.de:8000/as/
 ;==================================================================================
